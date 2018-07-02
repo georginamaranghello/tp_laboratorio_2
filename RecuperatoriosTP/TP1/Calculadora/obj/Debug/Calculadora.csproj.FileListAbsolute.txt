@@ -1,0 +1,13 @@
+C:\Users\georg\source\repos\MiCalculadora\Calculadora\bin\Debug\Calculadora.exe.config
+C:\Users\georg\source\repos\MiCalculadora\Calculadora\bin\Debug\Calculadora.exe
+C:\Users\georg\source\repos\MiCalculadora\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\georg\source\repos\MiCalculadora\Calculadora\obj\Debug\Calculadora.csprojAssemblyReference.cache
+C:\Users\georg\source\repos\MiCalculadora\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
+C:\Users\georg\source\repos\MiCalculadora\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.cache
+C:\Users\georg\source\repos\MiCalculadora\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\georg\source\repos\MiCalculadora\Calculadora\obj\Debug\Calculadora.exe
+C:\Users\georg\source\repos\MiCalculadora\Calculadora\obj\Debug\Calculadora.pdb
+C:\Users\georg\source\repos\MiCalculadora\Calculadora\bin\Debug\Entidades.dll
+C:\Users\georg\source\repos\MiCalculadora\Calculadora\bin\Debug\Entidades.pdb
+C:\Users\georg\source\repos\MiCalculadora\Calculadora\obj\Debug\Calculadora.Form1.resources
+C:\Users\georg\source\repos\MiCalculadora\Calculadora\obj\Debug\Calculadora.csproj.CopyComplete
